@@ -1,6 +1,6 @@
 ### Oii! Tudo bem? Eu sou a Rafaela Marques 👋
 
-- 👧🏻 Futura desenvolvedora front-end
+- 👧🏻 Futura desenvolvedora full stack
 - 💻 Atualmente estou estudando JavaScript
 
 <div align="center">
