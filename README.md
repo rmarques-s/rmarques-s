@@ -1,7 +1,7 @@
 ### Oii! Tudo bem? Eu sou a Rafaela Marques 👋
 
 - 👧🏻 Futura desenvolvedora full-stack
-- 💻 Atualmente estou estudando JavaScript
+- 💻 Atualmente estou estudando Angular
 
 <div align="center">
   <a href="https://github.com/rmarques-s">
