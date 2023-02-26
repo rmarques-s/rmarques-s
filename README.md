@@ -13,7 +13,7 @@
 
   <h2 align="left"> Hard skills:</h2>  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Ts" height="30" width="60" src="https://camo.githubusercontent.com/0461c95b6c3716b16477ee709148006546bf849be66ef1e4fa373d2119dff412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e67756c61722d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="Rafa-Ts" height="30" width="100" src="https://camo.githubusercontent.com/0461c95b6c3716b16477ee709148006546bf849be66ef1e4fa373d2119dff412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e67756c61722d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
