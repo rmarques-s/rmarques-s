@@ -1,7 +1,7 @@
 ### Oii! Tudo bem? Eu sou a Rafaela Marques 👋
 
 - Desenvolvedora web full stack
-- Atualmente estou estudando Angular e Spring Boot
+- Atualmente estou estudando o framework Spring Boot
 
 <div align="center">
   <a href="https://github.com/rmarques-s">
