@@ -1,7 +1,8 @@
-### Oii! Tudo bem? Eu sou a Rafaela Marques 👋
+### Olá! Tudo bem? Eu sou a Rafaela Marques 👋
 
-- Desenvolvedora web full stack
-- Atualmente estudando o framework Spring Boot
+Sou desenvolvedora fullstack, porém possuo mais afinidade no backend. Trabalho com Angular e Spring Boot e sempre que posso estudo um pouco da linguagem Python.
+
+Gosto de aprender coisas novas e estou aberta para colaborar com projetos!
 
 <div align="center">
   <a href="https://github.com/rmarques-s">
