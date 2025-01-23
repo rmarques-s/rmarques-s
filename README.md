@@ -1,6 +1,6 @@
 ### Olá! Tudo bem? Eu sou a Rafaela Marques 👋
 
-Sou desenvolvedora fullstack, porém possuo mais afinidade no backend. Trabalho com Angular e Spring Boot e sempre que posso estudo um pouco da linguagem Python.
+Sou estudante de engenharia da computação e desenvolvedora fullstack. Trabalho com Angular e Spring Boot e sempre que posso estudo um pouco da linguagem Python.
 
 Gosto de aprender coisas novas e estou aberta para colaborar com projetos!
 
