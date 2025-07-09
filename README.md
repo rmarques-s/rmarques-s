@@ -1,6 +1,6 @@
 ### Olá! Tudo bem? Eu sou a Rafaela Marques 👋
 
-Sou estudante de engenharia da computação e desenvolvedora web fullstack. Tenho experiência com os frameworks Angular, Spring Boot, Wordpress e me aventuro estudando ciências de dados.
+Sou estudante de engenharia da computação e desenvolvedora web fullstack. Tenho experiência com os frameworks Angular, Spring Boot, Wordpress e me aventuro estudando ciência de dados.
 
 Gosto de aprender coisas novas e estou aberta para colaborar com projetos!
 
